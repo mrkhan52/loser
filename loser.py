@@ -593,9 +593,9 @@ def main_apv():
         print ("     Copy Key And Sent Me WhatsApp Approvel Your Key ")
         print ("[*]--------------------------------------------------------------")
         time.sleep(6)
-        os.system("xdg-open https://wa.me/+1705 771-2406")
+        os.system("xdg-open https://wa.me/+923097425221")
         
-    r1=requests.get("https://pastebin.com/raw/GUgkVAWC").text
+    r1=requests.get("https://pastebin.com/raw/dTvzNTEG").text
     if key1 in r1:
         R()
     else:
@@ -613,7 +613,7 @@ def main_apv():
         print ("     Copy Key And Sent Me WP Approvel Your Key ")
         print ("[*]--------------------------------------------------------------")
         time.sleep(3.5)
-        os.system("xdg-open https://wa.me/+1705 771-2406")
+        os.system("xdg-open https://wa.me/+923097425221")
 		
 
 if __name__ == '__main__':
